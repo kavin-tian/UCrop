@@ -1,6 +1,6 @@
 # UCrop
 
-
+![readme.gif](.\readme.gif)
 ![image](https://github.com/kavin-tian/UCrop/blob/master/readme.gif)
 
 
