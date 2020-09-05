@@ -1,13 +1,10 @@
 # UCrop
 
 
-
-![readme.gif](.\readme.gif)
-
+![image](https://github.com/kavin-tian/UCrop/blob/master/readme.gif)
 
 
 Android裁剪图片（UCrop）使用说明
-
 
 
 Android如何打开拍照 打开系统相册参考：
